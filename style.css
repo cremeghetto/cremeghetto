@@ -22,6 +22,9 @@ a {
   display: grid;
   place-content: center;
   background: #fff;
+}
+
+.welcome-text {
   padding: 0 1rem;
 }
 
